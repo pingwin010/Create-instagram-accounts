@@ -1,6 +1,7 @@
 import requests, time, json, random, string, re
 
-api_base_url = 'https://t.mme/pingwin010'
+api_base_url = 'https://t.me/pingwin010'
+
 alll = string.ascii_letters + string.digits
 session_name = "".join(random.sample(alll,random.randint(12, 12)))
 
