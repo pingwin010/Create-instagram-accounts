@@ -4,7 +4,6 @@ api_base_url = 'https://t.me/pingwin010'
 
 alll = string.ascii_letters + string.digits
 session_name = "".join(random.sample(alll,random.randint(12, 12)))
-
 api_token = input('[*] Enter your api : (Enter L if you want to load it from previous config) : ') 
 
 if (api_token == 'L') or (api_token == 'l'):
