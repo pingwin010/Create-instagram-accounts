@@ -7,7 +7,6 @@ Create instagram account by mobile api Updated method to register Instagram acco
 - **latest tests : 1 Nov 2026**  ✔️<br><br> 
 Updated method to register Instagram accounts all automatically, using Instagram mobile API<br><br>
 
-
 # Features
 - Android App API 454.0.0.41.77 <br>
 - You are able to choose format of the cookie (`IAM`  | `instagrapi`)<br>
