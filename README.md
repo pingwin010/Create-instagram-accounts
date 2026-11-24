@@ -3,6 +3,7 @@ Create instagram account by mobile api Updated method to register Instagram acco
 
 # Create instagram account by mobile api
 <br><br>
+
 - **upgraded to :  454.0.0.41.77**<br><br>
 - **latest tests : 1 Nov 2026**  ✔️<br><br> 
 Updated method to register Instagram accounts all automatically, using Instagram mobile API<br><br>
